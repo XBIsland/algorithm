@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "prepare": "husky install",
+    "test2": "echo \"tet111111\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
