@@ -1,0 +1,23 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "personal notes",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XBIsland/algorithm.git"
+  },
+  "author": "XBIsland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XBIsland/algorithm/issues"
+  },
+  "homepage": "https://github.com/XBIsland/algorithm#readme",
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
+}
