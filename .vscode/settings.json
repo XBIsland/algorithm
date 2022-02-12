@@ -1,0 +1,14 @@
+{
+  "GitCommitPlugin.Templates": [
+    {
+      "templateName": "Angular",
+      "templateContent": "<icon><space><type>(<scope>):<space><subject><enter><body><enter><footer>"
+    },
+    {
+      "templateName": "git-cz",
+      "templateContent": "<type>(<scope>):<space><icon><space><subject><enter><body><enter><footer>",
+      // Set as default commit template
+      "default": true
+    }
+  ]
+}
